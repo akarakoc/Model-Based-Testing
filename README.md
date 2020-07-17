@@ -3,6 +3,12 @@
 Model Based Testing Application for websites with Selenium WebDriver and GW4E.
 
 
+
+### Model Diagram (GW4E)
+<p align="center">
+  <img src="https://github.com/akarakoc/Model-Based-Testing/blob/master/src/ModelBasedTesting.png">
+</p>
+
 <pre><code>Result :
 {
   "totalFailedNumberOfModels": 0,
@@ -20,6 +26,4 @@ Model Based Testing Application for websites with Selenium WebDriver and GW4E.
   "edgeCoverage": 100,
   "totalNumberOfVertices": 7,
   "totalNumberOfUnvisitedEdges": 0
-}
-
-</code></pre>
+}</code></pre>
