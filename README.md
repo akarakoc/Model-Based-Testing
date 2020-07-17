@@ -3,9 +3,7 @@
 Model Based Testing Application for websites with Selenium WebDriver and GW4E.
 
 
-<pre><code>
-
-Result :
+<pre><code>Result :
 {
   "totalFailedNumberOfModels": 0,
   "totalNotExecutedNumberOfModels": 0,
