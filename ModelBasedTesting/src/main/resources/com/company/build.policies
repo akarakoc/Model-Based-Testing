@@ -1,0 +1,10 @@
+#Format --> GRAPHFILE=PATHGENERATOR;SEVERITYFLAG;PATHGENERATOR1;SEVERITYFLAG1;...
+
+FirstModelScenario.json=random(vertex_coverage(100));I;random(edge_coverage(100));I;AStarPath(ReachedVertex(v_verifyHomePage));I;RandomPath(TimeDuration(30));I;
+
+SecondModelScenario.json=random(vertex_coverage(100));I;random(edge_coverage(100));I;RandomPath(TimeDuration(30));I;AStarPath(ReachedVertex(v_verifyProfilePage));I;
+
+Simple.json=random(vertex_coverage(100));I;random(edge_coverage(100));I;AStarPath(ReachedVertex(v_VerifyAppRunning));I;RandomPath(TimeDuration(30));I;
+
+ThirdModelScenario.json=random(vertex_coverage(100));I;AStarPath(ReachedVertex(v_verifyHomePage));I;RandomPath(TimeDuration(30));I;random(edge_coverage(50));I;
+
